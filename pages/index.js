@@ -6,12 +6,4 @@ function Home() {
   );
 }
 
-function teste() {
-  console.log("teste");
-}
-
-function teste02() {
-  console.log("teste indetação");
-}
-
 export default Home;
